@@ -1,0 +1,50 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/Goudlokje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/Goudlokje.webm",
+      "naam": "Goudlokje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de berenpap.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/De berenpap.webm",
+      "naam": "de berenpap"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de kleine beer.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de kleine beer.webm",
+      "naam": "de kleine beer"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/blij.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/blij.webm",
+      "naam": "blij"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/bang.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/bang.webm",
+      "naam": "bang"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de middelgrote beer.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de middelgrote beer.webm",
+      "naam": "de middelgrote beer"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/boos.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/boos.webm",
+      "naam": "boos"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/verdrietig.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/verdrietig.webm",
+      "naam": "verdrietig"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de grote beer.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de grote beer.webm",
+      "naam": "de grote beer"
+    }
+  ]
+}
