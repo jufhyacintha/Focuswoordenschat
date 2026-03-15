@@ -1,0 +1,55 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20eierschaal.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20eierschaal.webm",
+      "naam": "de eierschaal"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20kip.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20kip.webm",
+      "naam": "de kip"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20ei.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20ei.webm",
+      "naam": "het ei"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20kuiken.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20kuiken.webm",
+      "naam": "het kuiken"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/openbreken.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/openbreken.webm",
+      "naam": "openbreken"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het paasmandje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het paasmandje.webm",
+      "naam": "het paasmandje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20kippenhok.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20kippenhok.webm",
+      "naam": "het kippenhok"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/pasen%20(vieren).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/pasen%20(vieren).webm",
+      "naam": "pasen (vieren)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20paasei.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het%20paasei.webm",
+      "naam": "het paasei"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20paastak.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de%20paastak.webm",
+      "naam": "de paastak"
+    }
+  ]
+}
