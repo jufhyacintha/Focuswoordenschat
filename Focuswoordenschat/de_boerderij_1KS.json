@@ -1,0 +1,65 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de boerderij.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de boerderij.webm",
+      "naam": "de boerderij"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de boer en de boerin.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de boer en de boerin.webm",
+      "naam": "de boer en de boerin"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de stal.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de stal.webm",
+      "naam": "de stal"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de tractor.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de tractor.webm",
+      "naam": "de tractor"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het paard.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het paard.webm",
+      "naam": "het paard"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het veulen.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het veulen.webm",
+      "naam": "het veulen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de koe.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/de koe.webm",
+      "naam": "de koe"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het kalfje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het kalfje.webm",
+      "naam": "het kalfje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het varken.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het varken.webm",
+      "naam": "het varken"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het biggetje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het biggetje.webm",
+      "naam": "het biggetje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het schaap.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het schaap.webm",
+      "naam": "het schaap"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het lammetje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/het lammetje.webm",
+      "naam": "het lammetje"
+    }
+  ]
+}
