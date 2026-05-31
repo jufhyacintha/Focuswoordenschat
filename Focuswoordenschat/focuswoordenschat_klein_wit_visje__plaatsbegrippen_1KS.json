@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/op (de steen).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/op (de steen).webm",
+      "naam": "op (de steen)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/in (de schelp).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/in (de schelp).webm",
+      "naam": "in (de schelp)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/onder (baby schildpad).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/onder (baby schildpad).webm",
+      "naam": "onder (baby schildpad)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/naast (papa).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/naast (papa).webm",
+      "naam": "naast (papa)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/achter (papa).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/achter (papa).webm",
+      "naam": "achter (papa)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/boven (de schelpen).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/boven (de schelpen).webm",
+      "naam": "boven (de schelpen)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/voor (papa).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/voor (papa).webm",
+      "naam": "voor (papa)"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/tussen (mama en papa).png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/tussen (mama en papa).webm",
+      "naam": "tussen (mama en papa)"
+    }
+  ]
+}
