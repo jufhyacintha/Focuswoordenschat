@@ -1,0 +1,35 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/voor het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/voor het ijsje.webm",
+      "naam": "voor het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/naast het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/naast het ijsje.webm",
+      "naam": "naast het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/achter het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/achter het ijsje.webm",
+      "naam": "achter het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/op het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/op het ijsje.webm",
+      "naam": "op het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/onder het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/onder het ijsje.webm",
+      "naam": "onder het ijsje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/tussen het ijsje.png",
+      "audio": "https://raw.githubusercontent.com/jufhyacintha/Focuswoordenschat/main/Focuswoordenschat/tussen het ijsje.webm",
+      "naam": "tussen het ijsje"
+    }
+  ]
+}
